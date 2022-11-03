@@ -1,4 +1,4 @@
-### Studying notebook for TensorFlow
+### Learning notes for TensorFlow
 Including:
 
 functions always used for Tensorflow
